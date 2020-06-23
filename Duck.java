@@ -7,6 +7,12 @@ public class Duck extends Bird{
 		System.out.println("Quack, quack");
 		
 	}
+ 	
+	void swim() {		
+	     
+		System.out.println("Duck can swim");
+		
+	}
 
 
 }
